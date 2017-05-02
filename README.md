@@ -1,5 +1,7 @@
 # ee-GCM
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-gcm.svg)](https://greenkeeper.io/)
+
 google cloud messaging
 
 
