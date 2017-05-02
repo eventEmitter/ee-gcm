@@ -17,7 +17,7 @@
           "ee-class":   "*"
         , "ee-event":   "*"
         , "ee-log":     "*"
-        , "request":    "2.25.0"
+        , "request":    "2.81.0"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
